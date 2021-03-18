@@ -13,3 +13,8 @@ https://codepen.io/sinankinav/pen/NWbZpMO
 - 'for in' ve 'for of' döngülerini açıklayınız ve örneklerle destekleyiniz.
 
 - 'for' ve 'while' döngüleri ile ilgili örnekler yapınız.
+while 
+https://codepen.io/sinankinav/pen/yLVdMxd?editors=1111
+
+For
+https://codepen.io/sinankinav/pen/XWNLMym
