@@ -2,6 +2,8 @@
 
 - JavaScript'te nesne(object) örnekleri yaratarak örnekler içerisinde metodlarla birlikte kullanmaya çalışınız.
 
+https://codepen.io/sinankinav/pen/RwozpxZ?editors=0010
+
 - 'return' ve 'console.log' arasındaki farkı açıklayınız. Örneklerle destekleyiniz.
 
 - JavaScript'te primitive types ve reference types kavramlarını araştırınız. Bu sınıflandırmalara dahil olan türleri sıralayınız.
