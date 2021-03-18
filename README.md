@@ -9,6 +9,25 @@ https://codepen.io/sinankinav/pen/RwozpxZ?editors=0010
 https://codepen.io/sinankinav/pen/NWbZpMO
 
 - JavaScript'te primitive types ve reference types kavramlarını araştırınız. Bu sınıflandırmalara dahil olan türleri sıralayınız.
+Primitive types
+
+1.string
+
+2.number
+
+3.boolean
+
+4.null
+
+
+Referance types
+
+1.array
+
+2.object
+
+3.function
+
 
 - 'for in' ve 'for of' döngülerini açıklayınız ve örneklerle destekleyiniz.
 
